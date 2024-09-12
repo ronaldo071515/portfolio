@@ -17,13 +17,13 @@ export class PortfolioComponent {
       image: './assets/ecommerce1.png'
     },
     {
-      name: 'Cotizador',
+      name: 'Quotation',
       url: 'https://monumental-conkies-2bdf19.netlify.app',
       description: 'Cotizador de criptomonedas usando JavaScript y consumiendo una API',
       image: './assets/cotizador.png'
     },
     {
-      name: 'APV',
+      name: 'APV - MERN',
       url: 'https://chipper-empanada-285617.netlify.app',
       description: 'Administración de pacientes de veterinaria, fullstack: MERN',
       image: './assets/apv.png'
@@ -35,25 +35,25 @@ export class PortfolioComponent {
       image: './assets/pipes.png'
     },
     {
-      name: 'Buscador de Recetas',
+      name: 'Search for Recipes',
       url: 'https://ronaldo-recetas.netlify.app',
       description: 'Buscador de comidas con JavaScript, consumiendo una api, y guardando en LocalStorage',
       image: './assets/comida.png'
     },
     {
-      name: 'Aplicación Movil',
+      name: 'Mobil App',
       url: 'https://play.google.com/store/apps/details?id=com.dev.appMovilSena',
       description: 'Aplicación Movil realizada con ionic, y node como backend',
       image: './assets/app.png'
     },
     {
-      name: 'Página web',
+      name: 'Landing Page',
       url: 'https://charming-cobbler-6cfe66.netlify.app',
       description: 'Página web hecha con sass, en curso de css y sass',
       image: './assets/podcast.png'
     },
     {
-      name: 'Préstamos',
+      name: 'Loans',
       url: 'https://inquisitive-frangollo-605735.netlify.app',
       description: 'Aplicación realizada como introducción a React',
       image: './assets/react.png'
